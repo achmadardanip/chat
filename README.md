@@ -11,7 +11,7 @@ To deploy with Vercel, click the button below:
 Add your environment variables to `.env.local` in the root of the project.
 
 ```
-OPENAI_API_KEY=your-api-key
+GOOGLE_API_KEY=your-api-key
 ```
 
 ## Install dependencies
